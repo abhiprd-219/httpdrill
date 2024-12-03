@@ -1,0 +1,9 @@
+{
+  "name": "my-http-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
